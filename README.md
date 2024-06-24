@@ -16,3 +16,5 @@ Features such as :
 7. Hourly Forecast with an interval of 3 hours.
 
 The background changes according to the weather of the city.
+
+Background images downloaded from Pexels.
