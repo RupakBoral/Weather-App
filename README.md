@@ -2,6 +2,8 @@
 
 A real time weather website.
 
+Responsiveness is maintained.
+
 Developed using HTML, Tailwind Framework and Javascript.
 
 Use of open weather API to fetch the weather reports.
